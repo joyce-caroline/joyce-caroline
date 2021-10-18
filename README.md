@@ -4,7 +4,7 @@
 - 🌱 Eu estou estudando Ruby Puro
 - 🧠 Me interesso por Banco de Dados e Criptografia.
 - ✍️ Pretendo aprender Ruby on Rails
-- ✍️ ConstruDelas
+- ✍️ <ConstruDelas>
 
 <div align="center">
   <a href="https://github.com/joyce-caroline">
@@ -14,6 +14,8 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
   
 
