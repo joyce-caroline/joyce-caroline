@@ -4,6 +4,7 @@
 - 🌱 Eu estou estudando Ruby Puro
 - 🧠 Me interesso por Banco de Dados e Criptografia.
 - ✍️ Pretendo aprender Ruby on Rails
+- ✍️ ConstruDelas
 
 <div align="center">
   <a href="https://github.com/joyce-caroline">
