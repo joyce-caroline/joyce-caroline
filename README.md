@@ -1,4 +1,9 @@
-### Oie! Eu sou a Joyce, mas pode me chamar de Joy ✨
+```
+
+puts Hello World, I'm Joyce!
+
+```
+
 
 <div align="center">
   <a href="https://github.com/joyce-caroline">
