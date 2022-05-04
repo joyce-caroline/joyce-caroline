@@ -7,7 +7,7 @@ puts Hello World, I'm Joyce!
 
 <div align="center">
   <a href="https://github.com/joyce-caroline">
-  <img img  align =" center " src="https://github-readme-stats.vercel.app/api?username=joyce-caroline&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img img width="470px" align =" center " src="https://github-readme-stats.vercel.app/api?username=joyce-caroline&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img img width="470px" height:"200px" align =" center " src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyce-caroline&layout=compact&langs_count=7&theme=omni"/>
 </div>
   <div style="display: inline_block"><br>
