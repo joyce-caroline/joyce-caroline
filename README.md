@@ -1,8 +1,28 @@
-```
+# Bem-vinde ao meu perfil! 😺
 
-puts "Hello World, I'm Joyce!"
+## Sobre mim
+Me chamo Joyce e sou uma desenvolvedora apaixonada por gatos! 🐱 Tenho uma paixão profunda por programação e também sou uma amante de animais.
 
-```
+## Minhas Habilidades
+- Linguagens de Programação: JavaScript, Ruby
+- Tecnologias: HTML, CSS, React, Node.js
+- Banco de Dados: PostgreSql, MySQL
+- Ferramentas de Desenvolvimento: Visual Studio Code, Git
+
+## Projetos Purr-fectos
+Aqui estão alguns dos meus projetos favoritos que envolvem gatos:
+- [GatoFinder](https://github.com/seu-usuario/GatoFinder): Um aplicativo que ajuda você a encontrar abrigos de gatos próximos.
+- [CatStagram](https://github.com/seu-usuario/CatStagram): Uma plataforma para compartilhar fotos e histórias de gatos.
+- [Meu Gato](https://github.com/seu-usuario/MeuGato): Um aplicativo para registrar informações sobre seus gatos.
+
+## Vamos nos conectar! 🐾
+- 💬 Adoro conhecer novas pessoas! Me envie uma mensagem para trocarmos ideias sobre desenvolvimento ou gatos.
+- 📫 Você também pode me encontrar no [LinkedIn](https://www.linkedin.com/in/joyce-caroline-amorim/) para oportunidades de networking.
+
+Agradeço por visitar meu perfil! Espero que você tenha um dia purr-fecto! 😸
+
+
+
 
 
 <div align="center">
